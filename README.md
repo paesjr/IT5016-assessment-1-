@@ -34,39 +34,33 @@ The four principles of OOP are:
 
 ### What is polymorphism?
 Polymorphism means “many shapes” in Greek.  It's an OOP concept that refers to the ability of a variable, function, or object to take on multiple forms.             The concept is borrowed from a principle in biology where an organism or species can have many different forms or stages.       
-It helps to write powerful, complex abstractions from simpler ones.
+Polymorphism helps to write powerful, complex abstractions from simpler ones.
  
 ### What is an IDE?
-An IDE, or Integrated Development Environment, enables programmers to consolidate the different aspects of writing a computer program.
-
-IDEs increase programmer productivity by combining common activities of writing software into a single application: editing source code, building executables, and debugging.
-
+An IDE, or Integrated Development Environment, is a software application that helps programmers develop software code efficiently.  
+It's like text editors to write letters and spreadsheets for accounting.
+ 
 ### What is pair programming?
-Pair programming is an agile software development technique in which two programmers work together at one workstation. One, the driver, writes code while the other, the observer or navigator,[1] reviews each line of code as it is typed in. The two programmers switch roles frequently.
+Pair programming is an Agile practice in which two programmers work together at one computer, sharing one screen, keyboard and mouse.                                The programmer at the keyboard is usually called the “driver”, the other is the “navigator” collaborating on the same work. The programmers may swap roles every few minutes or so.
 
 ### What is Timeboxing? Have you heard of it before? Will you use it?
-In Agile principles, timeboxing allocates a fixed and maximum unit of time to an activity, called a timebox, within which planned activity takes place. It is used by Agile principles-based project management approaches and for personal time management.
+Timeboxing is an Agile practice used for personal time management by assigning a maximum amount of time to an activity.   
 
-No, I haven't heard of it before but seams like many successful software developers use to increase productivity, so yes I have plans to use it.
+No, I haven't heard of it before but it seams like many successful software developers use to increase productivity, so yes I have plans to use it.
 
 ### What is a variable?
-Variables are containers for storing data values.
-In Python a variable is created the moment you first assign a value to it.
-
-Example:
-x = 5
-y = "John"
-
+Variables are containers (a part of the computer's memory) to store, retrieve, and use data.
+ 
 ### What is a fixed mindset?
 A growth mindset is when students understand that their abilities can be developed through dedication and hard work, they love a challange.
 
 ### What is conscious listening?
-It's realizing that you need to put focus on it. Listening is work, it takes effort.
+It's realizing that you need to put focus on what you are listening to. Listening is work, it takes effort.
 Opposite of passive listening, passive listening is when someone hears but does not fully process or respond to shared information.
 
 ### What is an MVP? How would you describe it to a group of 6 year olds?
-A minimum viable product (MVP) is a version of a product with just enough features to be usable by early customers who can then provide feedback for future product development.
-For kids I would explain that MVP is like learning to ride a bicycle before learning to ride a motorcycle.
+A minimum viable product (MVP) is a version of a product with just enough features to be used by a customers and then provide feedback for future product development.
+For kids I would explain that MVP is like learning to use a bicycle before creating a motorcycle.
 
 ### Did you remember to take regular breaks away from your screen during this week? How often? Did you stretch your body?
 Yes, I took a break every 2 hours or so from the screen. 
@@ -94,7 +88,7 @@ Yes I'm. I find it very helpful for sure.
 To code with confidence.
 
 ### If you were describing programming to someone who knows nothing about it, what would you say?
-Programming is the process of giving machines a set of instructions that describe how a program should be carried out.
+Programming is like giving instructions to a computer to do a task.
 
 ### Have you developed a habit of persevering?
 Yes, in many areas of my life.
