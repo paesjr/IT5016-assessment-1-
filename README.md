@@ -6,20 +6,35 @@
 ## Learning process (Q & A).
 
 ### What is Python?
-Python is a popular programming language. It was created by Guido van Rossum, and released in 1991.
+Python is a high-level programming language, 
+created by Guido van Rossum in 1991.                                                                                                        
+The design focuses on readability using indentation
+and it can be used for:
 
-It is used for:
+* Web development (backend)
+* AI and machine learning 
+* Data analytics
+* Data visualisation
+* Programming applications 
+* Language development
+* Game development
+* SEO
+* Finance 
+ 
 
-web development (server-side),
-software development,
-mathematics,
-system scripting.
 
 ### What is OOP?
-Object-oriented programming (OOP) is a computer programming model that organizes software design around data, or objects, rather than functions and logic. An object can be defined as a data field that has unique attributes and behavior.
+OOP stands for object-oriented programming and it's a computer programming model that organizes software design around data, or objects.      
+The four principles of OOP are:
+
+* Encapsulation
+* Abstraction
+* Inheritance
+* Polymorphism
 
 ### What is polymorphism?
- Is the provision of a single interface to entities of different types[1] or the use of a single symbol to represent multiple different types.[2] The concept is borrowed from a principle in biology where an organism or species can have many different forms or stages.
+Polymorphism means “many shapes” in Greek.  It's an OOP concept that refers to the ability of a variable, function, or object to take on multiple forms.             The concept is borrowed from a principle in biology where an organism or species can have many different forms or stages.       
+It helps to write powerful, complex abstractions from simpler ones.
  
 ### What is an IDE?
 An IDE, or Integrated Development Environment, enables programmers to consolidate the different aspects of writing a computer program.
