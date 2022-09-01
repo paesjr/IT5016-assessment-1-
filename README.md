@@ -59,7 +59,8 @@ It's realizing that you need to put focus on what you are listening to. Listenin
 Opposite of passive listening, passive listening is when someone hears but does not fully process or respond to shared information.
 
 ### What is an MVP? How would you describe it to a group of 6 year olds?
-A minimum viable product (MVP) is a version of a product with just enough features to be used by a customers and then provide feedback for future product development.
+A minimum viable product (MVP) is a version of a product with just enough features to be used by a customers and then provide feedback for future product development. 
+
 For kids I would explain that MVP is like learning to use a bicycle before creating a motorcycle.
 
 ### Did you remember to take regular breaks away from your screen during this week? How often? Did you stretch your body?
